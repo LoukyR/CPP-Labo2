@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# University Documents
+*.sh
+*.pdf
+
+# Eclipse crap
+.metadata/
+RemoteSystemsTempFiles/
